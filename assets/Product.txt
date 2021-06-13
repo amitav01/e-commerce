@@ -1,0 +1,28 @@
+1;KesarMilk Powder;Ground Spices / Masalas;60;Buy1 Get 1
+2;Tea Masala;Ground Spices / Masalas;30;Buy1 Get 1
+3;Garam Masala;Ground Spices / Masalas;35;Buy1 Get 2
+4;Kitchen King;Ground Spices / Masalas;65;Buy1 Get 1
+5;Pav Bhaji Masala;Ground Spices / Masalas;70;Buy2 Get 1
+6;Cholle Masala;Ground Spices / Masalas;55;Buy1 Get 1
+7;Rajma Masala;Ground Spices / Masalas;45;Buy1 Get 1
+8;Sabzi Masala;Ground Spices / Masalas;45;Buy1 Get 1
+9;Biryani/Pulav Masala;Ground Spices / Masalas;65;Buy3 Get 1
+10;Fish Curry Masala;Ground Spices / Masalas;70;Buy1 Get 1
+11;Egg Curry Masala;Ground Spices / Masalas;70;Buy1 Get 1
+12;Chicken Masala;Ground Spices / Masalas;75;Buy1 Get 1
+13;Meat Masala;Ground Spices / Masalas;75;Buy2 Get 1
+14;Jaljira Powder;Ground Spices / Masalas;45;Buy1 Get 1
+15;Chat Powder;Ground Spices / Masalas;55;Buy1 Get 1
+16;Sambar Powder;Ground Spices / Masalas;50;Buy1 Get 1
+18;Rice - Meals (Per Kg);Rice / Grains / Pulses;45;3%
+19;Rice - Boiled (Per Kg);Rice / Grains / Pulses;40;2%
+20;Rice - Basmati (Per Kg);Rice / Grains / Pulses;70;5%
+21;Dosa Rice(Per Kg);Rice / Grains / Pulses;40;10%
+22;Wheat( 5 Kg);Rice / Grains / Pulses;250;10%
+23;GroundNut [Per Kg];Rice / Grains / Pulses;90;6%
+24;Milk;Dairy / Frozen Food;35;
+25;Milk Powder;Dairy / Frozen Food;55;
+26;Butter;Dairy / Frozen Food;56;
+27;Cheese;Dairy / Frozen Food;102;10%
+28;Khova;Dairy / Frozen Food;110.25;
+29;Fresh Cream;Dairy / Frozen Food;67.98;
